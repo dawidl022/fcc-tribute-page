@@ -6,6 +6,5 @@ What I learnt:
 
 What I had difficulties with:
 - Knowing what HTML5 semantic tags to use and when to use them.
-- How the cascading mechanism works in CSS
-
-Questions to resolve: <!-- TODO remove if necssary -->
+- How the cascading mechanism works in CSS.
+- Knowing what default CSS styles the browser had set, perhaps it's a good idea to use some basic CSS reset.
