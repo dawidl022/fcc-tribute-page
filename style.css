@@ -76,8 +76,21 @@ footer {
   font-weight: 700;
 }
 
+@media (max-width: 550px) {
+  .timeline {
+    padding: 0 20px;
+  }
+
+  footer {
+    padding: 0 20px 40px 20px;
+  }
+}
+
 @media (max-width: 450px) {
   figcaption {
     font-size: 15px;
+  }
+  h1 {
+    font-size: 2em;
   }
 }
